@@ -21,4 +21,4 @@ My current solution in my GitHub Actions, is to simply delete the init file befo
 
 Another thing I have tried to do, is add an `init-hook` to my `.pylintrc` file to append `lib/src/` to my path, along with other variations. This also didn't work.
 
-Please help!
+Please help and add issues if you have questions/suggestions/solutions.
